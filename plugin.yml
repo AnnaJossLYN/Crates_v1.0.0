@@ -1,0 +1,4 @@
+name: Crates
+version: 1.0
+main: AnnaJossLYN\Crates\Main
+api: 3.0.0
